@@ -1,0 +1,17 @@
+{
+    "name": "TM1637_cn",
+    "version": "1.0.0",
+    "description": "TM1637四位数码管的makecode中文模块",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
