@@ -7,7 +7,7 @@
 /**
  * Four Digit Display
  */
-//% weight=100 color=#1874CD icon="\uf145" block="B_四位数码管"
+//% weight=20 color=#Ffbc11 icon="\uf145" block="B_四位数码管"
 namespace TM1637 {
     let TM1637_CMD1 = 0x40;
     let TM1637_CMD2 = 0xC0;
